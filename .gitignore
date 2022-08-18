@@ -1,5 +1,5 @@
 # to ignore file
-function_testing.py
+ignore.py
 
 # To igrnore entire directory
 DayTripGenerator/
